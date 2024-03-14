@@ -20,6 +20,6 @@ Opcja multicast jest dostępna poprzez wpisanie komendy M w kliencie.
 W trybie multicast, wiadomości są przesyłane bezpośrednio do wszystkich klientów poprzez adres grupowy.
 Serwer może, ale nie musi odbierać wiadomości multicast.
 
-#Uwagi
+# Uwagi
 Projekt Chat w Javie jest prostą implementacją chatu wykorzystującą protokoły TCP i UDP.
 Zapewniono wielowątkową obsługę serwera oraz dodatkowe funkcje komunikacyjne z użyciem UDP i multicast.
